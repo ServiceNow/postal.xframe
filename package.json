@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "lodash": "^3.3.1",
-    "postal.federation": "../dev-studio/npm_packages/postal.federation"
+    "postal.federation": "../dev-studio/submodules/postal.federation"
   },
   "devDependencies": {
     "bower": "~1.2.8",
